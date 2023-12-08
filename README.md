@@ -4,6 +4,9 @@ This is a fork of [edge-js](https://github.com/agracio/edge-js) adapted to suppo
 
 Compatible with
 
+- 最低版本
+- Electron 6.x - Node.js v12.4.0
+
 - Electron 12.x - Node.js v14.16.0
 - Electron 13.x - Node.js v14.16.0
 - ~~Electron 14.x - Node.js v14.17.0~~
@@ -14,11 +17,15 @@ Compatible with
 - Electron 19.x - Node.js v16.14.2
 - Electron 20.x - Node.js v16.15.0
 - Electron 21.x - Node.js v16.16.0
-- Electron 22.x - Node.js v16.17.1
+- Electron 22.x - Node.js v16.17.1  （Win7专用）
 - Electron 23.x - Node.js v18.12.1
 - Electron 24.x - Node.js v18.14.0
 - Electron 25.x - Node.js v18.15.0
 - Electron 26.x - Node.js v18.16.1
+
+- 最近更新
+- Electron 27.x - Node.js v18.17.1
+- Electron 28.x - Node.js v18.18.1
 
 Usage is the same as edge or edge-js, replace `require('edge-js')` with `require('electron-edge-js')`:
 
